@@ -2,6 +2,10 @@
 
 Use the [Caring.com Senior Living Scraper](https://apify.com/piotrv1001/caring-com-senior-living-scraper) through Apify's Node.js client. This example calls an existing Actor; it does not implement a scraper.
 
+![Caring.com Los Angeles facility dataset with care types, ratings, and listed starting prices](./caring_senior_living_results.png)
+
+The screenshot shows 12 visible rows from a larger run; the code below caps its sample at ten facilities.
+
 ## What this example does
 
 - Passes a small input to the Actor
