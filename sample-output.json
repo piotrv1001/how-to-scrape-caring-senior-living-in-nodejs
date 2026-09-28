@@ -1,0 +1,19 @@
+[
+  {
+    "id": "example-facility-1",
+    "name": "Example Senior Living Community",
+    "url": "https://www.caring.com/senior-living/california/los-angeles/example-community",
+    "careTypes": [
+      "Assisted Living",
+      "Memory Care"
+    ],
+    "address": {
+      "formattedAddress": "123 Example St, Los Angeles, CA 90012"
+    },
+    "phoneNumber": "5550100123",
+    "averageRating": 4.5,
+    "reviewCount": 20,
+    "startingPrice": 3900,
+    "currency": "USD"
+  }
+]
